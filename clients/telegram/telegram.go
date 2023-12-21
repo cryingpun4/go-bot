@@ -25,5 +25,5 @@ func (c *Client) Updates() ([]Update, error) {
 }
 
 func (c *Client) SendMessage() {
-
+	// hello 1
 }
